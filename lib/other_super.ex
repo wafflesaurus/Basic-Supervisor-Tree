@@ -1,4 +1,4 @@
-defmodule Tree.WorkerSuper do
+defmodule Tree.OtherSuper do
 	use Supervisor
 
 	def start_link do
